@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "9ab819690afee7be",
+    "type": "split",
+    "children": [
+      {
+        "id": "505092b21064bb78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4ef1f49942a9dc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "keywords.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "keywords"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fd58eaed3dbd8ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5b11519b71799db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ef71b43efb84664",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "49dfa932f92cf93e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "81b613d588967d96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a80a88675f6f632",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2d729ee43ff63ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e22033086639c633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "2de39d510dfa7afa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "READMEへのバックリンク"
+            }
+          },
+          {
+            "id": "e4f4aec90d697b35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "keywords.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "keywordsからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "c29a49e4de74ac00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "5f7f2bccaebb92c9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "c3570e4f49af187c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "READMEのアウトライン"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "c4ef1f49942a9dc9",
+  "lastOpenFiles": [
+    "README.md",
+    "keywords.md",
+    "無題のファイル.base",
+    "assets/プルースト現象における記憶想起の特徴について/77_3AM-103.pdf",
+    "assets/プルースト現象における記憶想起の特徴について",
+    "literature/0-literature-lists.md",
+    "literature/An Overview of Olfactory Displays in Education and Training.md",
+    "literature/The Role of Odor-Evoked Memory in Psychological and Physiological Health.md",
+    "outputs",
+    "ideas",
+    "literature",
+    "notes",
+    "無題のファイル.md",
+    "inbox",
+    "assets/An Overview of Olfactory Displays in Education and Training/匂いの記憶は特効薬か地雷か.m4a",
+    "assets/The Role of Odor-Evoked Memory in Psychological and Physiological Health/brainsci-06-00022.pdf",
+    "ようこそ.md"
+  ]
+}
