@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "keywords.md",
+                "file": "inbox/bme ai-studio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "keywords"
+              "title": "bme ai-studio"
             }
           }
         ]
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "keywords.md",
+                "file": "inbox/bme ai-studio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "keywordsからのアウトゴーイングリンク"
+              "title": "bme ai-studioからのアウトゴーイングリンク"
             }
           },
           {
@@ -199,14 +199,17 @@
   },
   "active": "c4ef1f49942a9dc9",
   "lastOpenFiles": [
-    "README.md",
+    "inbox/bme688ArduinoLibrary.md",
+    "inbox/bme ai-studio.md",
+    "inbox/bme688.md",
+    "literature/The Role of Odor-Evoked Memory in Psychological and Physiological Health.md",
+    "literature/An Overview of Olfactory Displays in Education and Training.md",
+    "literature/0-literature-lists.md",
     "keywords.md",
+    "README.md",
     "無題のファイル.base",
     "assets/プルースト現象における記憶想起の特徴について/77_3AM-103.pdf",
     "assets/プルースト現象における記憶想起の特徴について",
-    "literature/0-literature-lists.md",
-    "literature/An Overview of Olfactory Displays in Education and Training.md",
-    "literature/The Role of Odor-Evoked Memory in Psychological and Physiological Health.md",
     "outputs",
     "ideas",
     "literature",
